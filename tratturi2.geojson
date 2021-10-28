@@ -3517,7 +3517,8 @@
                 "type": "LineString"
             },
             "properties": {
-                "name": "Tratturo Pescasseroli-Candela"
+                "name": "Tratturo Pescasseroli-Candela",
+                "color": "red"
             },
             "type": "Feature"
         },
